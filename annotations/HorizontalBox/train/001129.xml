@@ -1,0 +1,27 @@
+<annotation verified="no">
+  <folder>HorizontalBox</folder>
+  <filename>001129</filename>
+  <path>D:\sentinel\annotations\HorizontalBox\001129.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>bndbox</type>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>196</ymin>
+      <xmax>77</xmax>
+      <ymax>210</ymax>
+    </bndbox>
+  </object>
+</annotation>

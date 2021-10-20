@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>000687</filename>
+  <path>D:\sentinel\JPEGImages\train\000687.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>bndbox</type>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox><xmin>151</xmin><ymin>228</ymin><xmax>173</xmax><ymax>237</ymax></bndbox></object>
+</annotation>

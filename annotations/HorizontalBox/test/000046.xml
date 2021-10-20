@@ -1,0 +1,21 @@
+<annotation verified="no">
+  <folder>S1A_IW_SLC__1SDV_20201209T224803_20201209T224830_035615_042A79_BF7E_Cal_deb_mat_ML_RGB</folder>
+  <filename>S1A_IW_SLC__1SDV_20201209T224803_20201209T224830_035615_042A79_BF7E_Cal_deb_mat_ML_RGB_7_3_1538_1152</filename>
+  <path>D:\sentinel\patch\S1A_IW_SLC__1SDV_20201209T224803_20201209T224830_035615_042A79_BF7E_Cal_deb_mat_ML_RGB\S1A_IW_SLC__1SDV_20201209T224803_20201209T224830_035615_042A79_BF7E_Cal_deb_mat_ML_RGB_7_3_1538_1152.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>256</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>bndbox</type>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox><xmin>44</xmin><ymin>78</ymin><xmax>50</xmax><ymax>100</ymax></bndbox></object>
+</annotation>
